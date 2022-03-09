@@ -1,0 +1,6 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/facture_list_down" android:duration="200" />
+    <item android:drawable="@drawable/facture_list_up" android:duration="600" />
+    <item android:drawable="@drawable/facture_list_down" android:duration="200" />
+</animation-list>
